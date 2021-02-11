@@ -2,7 +2,7 @@
  * Internal dependencies
  */
 import { createComponent } from '../utils';
-import useTruncate from './use-truncate';
+import useTruncate from './hook';
 
 export default createComponent( {
 	as: 'span',

@@ -14,7 +14,7 @@ import { useMemo } from '@wordpress/element';
  * Internal dependencies
  */
 import { FlexItem, useFlex } from '../flex';
-import { getAlignmentProps } from './h-stack-utils';
+import { getAlignmentProps } from './utils';
 
 /**
  *
